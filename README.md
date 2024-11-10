@@ -1,6 +1,3 @@
-# 💫 About Me:
-👨‍💻Working on REST API for Brazillian food index table (TACO)<br>JAVASCRIPT DEVELOPER<br>LOOKING FOR NEW EXPERIENCES<br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-muller-brandt-a252941b4/) 
